@@ -1,0 +1,30 @@
+[
+    {
+        "image":"/src/assets/image-1.png",
+        "heading":"What Traveling Greece For 2 Weeks Taught Me About Life",
+        "subHeading":"Travel",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam mollis lectus vitae nulla malesuada amet purus sed. A condimentum tempus a egestas sodales diam cras",
+        "author":"George Costanza"
+    },
+    {
+        "image":"/src/assets/image-2.png",
+        "heading":"Why You Should Not Eat 12 Chicken Nuggets in a Single Day",
+        "subHeading":"Food",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam mollis lectus vitae nulla malesuada amet purus sed. A condimentum tempus a egestas sodales diam cras",
+        "author":"George Costanza"
+    },
+    {
+        "image":"/src/assets/image-1.png",
+        "heading":"What Traveling Greece For 2 Weeks Taught Me About Life",
+        "subHeading":"Travel",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam mollis lectus vitae nulla malesuada amet purus sed. A condimentum tempus a egestas sodales diam cras",
+        "author":"George Costanza"
+    },
+    {
+        "image":"/src/assets/image-2.png",
+        "heading":"Why You Should Not Eat 12 Chicken Nuggets in a Single Day",
+        "subHeading":"Travel",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam mollis lectus vitae nulla malesuada amet purus sed. A condimentum tempus a egestas sodales diam cras",
+        "author":"George Costanza"
+    }
+]
