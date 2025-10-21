@@ -1,7 +1,5 @@
 import React from 'react'
 import BlogCard from './BlogCard'
-import image1 from "../assets/image-1.png"
-import image2 from "../assets/image-2.png"
 
 const ReadingComponents = () => {
   return (
