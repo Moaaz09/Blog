@@ -7,7 +7,7 @@ export const AuthProvider = ({children}) => {
 
   const fetchBlogs = async ()=>{
     try {
-      const response = await fetch("/public/blogs/blogs.json")
+      const response = await fetch("/blogs/blogs.json")
     const data = await response.json()
     console.log(data);
     setBlogs(data)
