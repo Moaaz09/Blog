@@ -12,11 +12,11 @@ const Blog = () => {
         <p className='merriweather-font sm:text-sm text-[8px] text-[#515151]'>Aug 1, 2021 • 7 min read</p>
         
         <div>
-          <img className='sm:w-[800px] w-[270px] sm:h-[278px]' src="/src/assets/image-4.png" alt="This is an image" />
+          <img className='sm:w-[800px] w-[270px] sm:h-[278px]' src="/Images/image-4.png" alt="This is an image" />
         </div>
 
         <div className='flex sm:gap-4 gap-2'>
-          <img className='relative sm:bottom-[-4px] bottom-[-8px] sm:w-[50px] w-[25px] sm:h-[50px] h-[25px]' src="/src/assets/image-3.png" alt="Author" />
+          <img className='relative sm:bottom-[-4px] bottom-[-8px] sm:w-[50px] w-[25px] sm:h-[50px] h-[25px]' src="/Images/image-3.png" alt="Author" />
           <span className='Merriweather-font sm:text-sm text-[7px] font-medium mt-4'>George Costanza</span>
         </div>
 
@@ -51,7 +51,7 @@ const Blog = () => {
         <h2 className='Merriweather-font sm:text-4xl text-[21px] font-bold mb-[25px]'>Keep Reading</h2>
         
         <div className='flex'>
-          <img className='sm:w-[250px] w-[100px] sm:h-[165px] h-[65px] sm:mr-10 mr-1' src="/src/assets/image-5.png" alt="Keep Reading image" />
+          <img className='sm:w-[250px] w-[100px] sm:h-[165px] h-[65px] sm:mr-10 mr-1' src="/Images/image-5.png" alt="Keep Reading image" />
           <div>
             <h3 className='Merriweather-font sm:text-2xl text-[12px] font-bold sm:mb-[15px] mb-[8px]'>Why you don't need more than <br /> 3 pieces of clothing</h3>
             <p className='roboto-font sm:text-[18px] text-[7px]'>Et vitae, mollis euismod lobortis blandit amet sed amet. Amet <br /> ut amet nisl tortor arcu non id nulla mauris neque nisl magna.</p>
@@ -59,7 +59,7 @@ const Blog = () => {
         </div><br />
 
         <div className='flex'>
-          <img className='sm:w-[250px] w-[100px] sm:h-[165px] h-[65px] sm:mr-10 mr-1' src="/src/assets/image-6.png" alt="Keep Reading image" />
+          <img className='sm:w-[250px] w-[100px] sm:h-[165px] h-[65px] sm:mr-10 mr-1' src="/Images/image-6.png" alt="Keep Reading image" />
           <div>
             <h3 className='Merriweather-font sm:text-2xl text-[12px] font-bold sm:mb-[15px] mb-[8px]'>Why you should cook with your <br /> family together everyday</h3>
             <p className='roboto-font sm:text-[18px] text-[7px]'>Rutrum aliquet eros semper nunc. In adipiscing augue sagittis, <br /> fermentum donec nunc lacinia. Risus in egestas in orci quam.</p>
@@ -68,7 +68,7 @@ const Blog = () => {
 
         <div className='flex bg-[#F5F5F5] border-[1px #DDDDDD] rounded sm:w-[800px] w-[280px] sm:h-[237px] h-[100px] sm:pt-[47px] pt-[20px] sm:pl-[65px] pl-[15px] mt-[40px] sm:gap-10 gap-3'>
           <div>
-            <img className='sm:w-[150px] w-[50px] sm:h-[150px] h-[50px] relative sm:top-[-6px] top-[6px]' src="/src/assets/image-3.png" alt="Author" />
+            <img className='sm:w-[150px] w-[50px] sm:h-[150px] h-[50px] relative sm:top-[-6px] top-[6px]' src="/Images/image-3.png" alt="Author" />
           </div>
 
           <div>
