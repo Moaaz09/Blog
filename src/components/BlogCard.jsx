@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import image3 from "../assets/image-3.png"
+import image3 from "/Images/image-3.png"
 import { AuthContext } from '../auth/AuthContext'
 
 const BlogCard = () => {
