@@ -21,7 +21,7 @@ const BlogCard = () => {
         <p className='sm:w-[510px] w-[255px] text-md roboto-font text-[#434343] mt-4'>{blog.description}</p>
       </div>
       <div className='flex items-center gap-2 mt-4'>
-        <img src={image3} alt="This is an image" />
+        <img src={image3} className='w-4 h-5' alt="This is an image" />
         <span>{blog.author}</span>
       </div>
     </div>
